@@ -1,0 +1,15 @@
+.WindowsFormsApplication4/bin/.
+.WindowsFormsApplication4/bin/Debug/.
+.WindowsFormsApplication4/bin/Release/.
+.WindowsFormsApplication4/obj/.
+.WindowsFormsApplication4/obj/x86/.
+.WindowsFormsApplication4/obj/x86/Debug/.
+.WindowsFormsApplication4/obj/x86/Debug/TempPE/.
+.WindowsFormsApplication4/obj/x86/Release/.
+.WindowsFormsApplication4/obj/x86/Release/TempPE/.
+.WindowsFormsApplication4/Properties/.
+.WindowsFormsApplication4/Resources/.
+.WindowsFormsApplication4/Service References/.
+.vs/*
+.vs/editide/*
+.vs/editide/v14/*
